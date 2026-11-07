@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f1f5f9;
+    margin: 0;
+    padding: 40px 15px;
+}
+
+.container {
+    max-width: 700px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #1d4ed8;
+}
+
+button {
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+li {
+    margin: 15px 0;
+}
+
+a {
+    color: #2563eb;
+    margin-left: 15px;
+}
+
+.message {
+    color: green;
+}
